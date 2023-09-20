@@ -1,0 +1,14 @@
+package firstTrial;
+
+public class Marksheet {
+	public static void main(String[] args) {
+		System.out.println("\t\t\tDepartment of Computer Science");
+		System.out.println("\t\t\t\t\tEnd of Semester Results");
+		System.out.println("-------------------------------------------------------");
+		System.out.println("|Name:-");
+		System.out.println("\t\t\t|Roll_No:");
+		System.out.println("\t\t\t|Semester:");
+		System.out.println("________________________________________________________");
+	}
+
+}
