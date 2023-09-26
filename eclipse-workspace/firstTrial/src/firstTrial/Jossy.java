@@ -1,0 +1,12 @@
+package firstTrial;
+
+public class Jossy {
+
+	public static void main(String[] args) {
+		System.out.println("Hello Java");
+		System.out.println("I love coding in Java");
+		// TODO Auto-generated method stub
+
+	}
+
+}
