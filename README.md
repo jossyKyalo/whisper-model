@@ -1,1 +1,1 @@
-"# whisper-model" 
+# whisper-model
